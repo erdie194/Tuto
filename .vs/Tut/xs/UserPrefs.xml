@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E653E55F-EF57-48AA-A33F-1AFD8E7F4B25}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tut/EmptyClass.cs">
+    <Files>
+      <File FileName="Tut/Program.cs" Line="19" Column="1" />
+      <File FileName="Tut/Car.cs" Line="29" Column="1" />
+      <File FileName="Tut/EmptyClass.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tut" expanded="True">
+            <Node name="Tut" expanded="True">
+              <Node name="EmptyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tut PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

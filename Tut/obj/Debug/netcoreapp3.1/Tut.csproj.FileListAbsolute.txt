@@ -1,0 +1,13 @@
+/Users/ernstdiener/Projects/Tut/Tut/bin/Debug/netcoreapp3.1/Tut.deps.json
+/Users/ernstdiener/Projects/Tut/Tut/bin/Debug/netcoreapp3.1/Tut.runtimeconfig.json
+/Users/ernstdiener/Projects/Tut/Tut/bin/Debug/netcoreapp3.1/Tut.runtimeconfig.dev.json
+/Users/ernstdiener/Projects/Tut/Tut/bin/Debug/netcoreapp3.1/Tut.dll
+/Users/ernstdiener/Projects/Tut/Tut/bin/Debug/netcoreapp3.1/Tut.pdb
+/Users/ernstdiener/Projects/Tut/Tut/obj/Debug/netcoreapp3.1/Tut.csproj.AssemblyReference.cache
+/Users/ernstdiener/Projects/Tut/Tut/obj/Debug/netcoreapp3.1/Tut.AssemblyInfoInputs.cache
+/Users/ernstdiener/Projects/Tut/Tut/obj/Debug/netcoreapp3.1/Tut.AssemblyInfo.cs
+/Users/ernstdiener/Projects/Tut/Tut/obj/Debug/netcoreapp3.1/Tut.csproj.CoreCompileInputs.cache
+/Users/ernstdiener/Projects/Tut/Tut/obj/Debug/netcoreapp3.1/Tut.dll
+/Users/ernstdiener/Projects/Tut/Tut/obj/Debug/netcoreapp3.1/Tut.pdb
+/Users/ernstdiener/Projects/Tut/Tut/obj/Debug/netcoreapp3.1/Tut.genruntimeconfig.cache
+/Users/ernstdiener/Projects/Tut/Tut/obj/Debug/netcoreapp3.1/Tut.GeneratedMSBuildEditorConfig.editorconfig
